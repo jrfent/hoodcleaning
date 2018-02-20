@@ -1,10 +1,10 @@
-<strong>PilotCar</strong>
+<strong>Hood Cleaning Directory</strong>
 
-Pilot Car Finder is up and running. [pilot cars](http://pilotcarfinder.com)  Gotta love it!
+
 
 <strong>Things to do:</strong>
 
-create admin panel please - it's overdue!
+X create admin panel please - it's overdue!
 
 X finish frontpage
 
@@ -21,26 +21,10 @@ X metatags - added but need changes after images are ready
 
 <strong>Next stage: </strong>
 
-X Setup social media for pilotcar company
-
-Setup Reviews capability for truckers to rate pilotcars
-
-Setup Reviews capability for pilotcars to rate truckers
-
-Setup job board
+Setup social media for 
 
 X Setup social media interface for pilotcars to add their social media
 
-<strong>Fixes:</strong>
-X Need to fix url on listing show page
-
-X fix verifications for signups
-
-X add trucker info to Notification emails
-
-X Get Heroku up to date
-
-X Add ENV items to heroku
 
 
 rake assets:precompile RAILS_ENV=production
