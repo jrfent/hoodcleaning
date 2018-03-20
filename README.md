@@ -29,6 +29,8 @@ X Setup social media interface for pilotcars to add their social media
 
 rake assets:precompile RAILS_ENV=production
 
+We're going to launch this for our [Seattle Hood Cleaning Company](http://seattlehoodcleaningpros.com) first.
+
 
 
 
