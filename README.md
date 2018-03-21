@@ -31,6 +31,10 @@ rake assets:precompile RAILS_ENV=production
 
 We're going to launch this for our [Seattle Hood Cleaning Company](http://seattlehoodcleaningpros.com) first.
 
+I've just tried creating a Google My Map for [Miami Hood Cleaning](https://drive.google.com/open?id=1s0S_U_8tYE-ubc2Ecd_Dnvkr43lY3HGl&usp=sharing) Pros. It will be interesting to see if the links from the map are valuable.
+
+
+
 
 
 
